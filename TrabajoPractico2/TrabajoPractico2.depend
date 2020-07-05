@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1589605145 source:c:\users\usuario\desktop\programacion2020\trabajopractico2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"validaciones.h"
+	<conio.h>
+
+1589605138 c:\users\usuario\desktop\programacion2020\trabajopractico2\arrayemployees.h
+
+1589600075 c:\users\usuario\desktop\programacion2020\trabajopractico2\validaciones.h
+
+1589605518 source:c:\users\usuario\desktop\programacion2020\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"validaciones.h"
+	<conio.h>
+
+1589605579 source:c:\users\usuario\desktop\programacion2020\trabajopractico2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	<conio.h>
+
+1593909661 source:c:\users\usuario\desktop\programacion2020\tp1\tp 1\tp1_laboratorio2020\trabajopractico2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"validaciones.h"
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"utn.h"
+
+1593892209 c:\users\usuario\desktop\programacion2020\tp1\tp 1\tp1_laboratorio2020\trabajopractico2\arrayemployees.h
+
+1589600075 c:\users\usuario\desktop\programacion2020\tp1\tp 1\tp1_laboratorio2020\trabajopractico2\validaciones.h
+
+1593909113 source:c:\users\usuario\desktop\programacion2020\tp1\tp 1\tp1_laboratorio2020\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"validaciones.h"
+	<conio.h>
+	"utn.h"
+
+1593908215 source:c:\users\usuario\desktop\programacion2020\tp1\tp 1\tp1_laboratorio2020\trabajopractico2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	<conio.h>
+
+1592080184 c:\users\usuario\desktop\programacion2020\tp1\tp 1\tp1_laboratorio2020\trabajopractico2\utn.h
+
+1592080184 source:c:\users\usuario\desktop\programacion2020\tp1\tp 1\tp1_laboratorio2020\trabajopractico2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
